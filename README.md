@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/andreasgrafen/pfetch-with-kitties/main/assets/preview.jpg" width="50%" alt="Terminal Window showing off the Kitty ASCII art">
+<p align="center"><img src="https://raw.githubusercontent.com/andreasgrafen/pfetch-with-kitties/main/assets/preview.jpg" width="75%" alt="Terminal Window showing off the Kitty ASCII art">
 </p>
 <h1 align="center">Literally pfetch but with kitties</h1>
 <p align="center">A pretty system information tool written in POSIX sh</p><br>
@@ -60,7 +60,7 @@ PF_ALIGN=""
 # Which ascii art to use.
 # Default: unset (auto)
 # Valid: string
-PF_ASCII="openbsd"
+PF_ASCII="Catppuccin"
 
 # The below environment variables control more
 # than just 'pfetch' and can be passed using
