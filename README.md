@@ -1,44 +1,7 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/6799467/65944518-68834d80-e421-11e9-9b14-6ca26a16108a.png" width="350px"></p>
-<h1 align="center">pfetch</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/andreasgrafen/pfetch-with-kitties/main/assets/preview.jpg" width="50%" alt="Terminal Window showing off the Kitty ASCII art">
+</p>
+<h1 align="center">Literally pfetch but with kitties</h1>
 <p align="center">A pretty system information tool written in POSIX sh</p><br>
-
-<img src="https://user-images.githubusercontent.com/6799467/65945384-5bfff480-e423-11e9-863e-4e7cf16eb648.png" width="40%" align="right">
-
-The goal of this project is to implement a simple system
-information tool in POSIX `sh` using features built into
-the language itself (*where possible*).
-
-The source code is highly documented and I hope it will
-act as a learning resource for POSIX `sh` and simple
-information detection across various different operating
-systems.
-
-If anything in the source code is unclear or is lacking
-in its explanation, open an issue. Sometimes you get too
-close to something and you fail to see the "bigger
-picture"!
-
-<br>
-<br>
-<br>
-<br>
-
-## OS support
-
-- **Linux**
-    - Alpine Linux, Arch Linux, Arco Linux, Artix Linux, CentOS, Dahlia, Debian, Devuan, Elementary, EndeavourOS, Fedora, Garuda Linux, Gentoo, Guix, Hyperbola, instantOS, KISS Linux, Linux Lite, Linux Mint, Mageia, Manjaro, MX Linux, NixOS, OpenSUSE, Parabola, Pop!\_OS, PureOS, Slackware, Solus, Ubuntu and Void Linux.
-    - All other distributions are supported with a generic penguin logo.
-- **Android**
-- **BSD**
-    - DragonflyBSD, FreeBSD, NetBSD and OpenBSD.
-- **Windows**
-    - Windows subsystem for Linux.
-- **Haiku**
-- **MacOS**
-- **Minix**
-- **Solaris**
-- **IRIX**
-- **SerenityOS**
 
 ## Configuration
 

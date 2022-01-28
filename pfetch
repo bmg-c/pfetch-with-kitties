@@ -1788,6 +1788,16 @@ get_ascii() {
 			EOF
         ;;
 
+        ([Cc]atppuccin*)
+            read_ascii 2 <<-EOF
+				${c2} /| ､
+				${c2}(°､ ｡ 7
+				${c2} |､  ~ヽ
+				${c2} じしf_,)〳‎‎
+			EOF
+        ;;
+
+
         (*)
             # On no match of a distribution ascii art, this function calls
             # itself again, this time to look for a more generic OS related
